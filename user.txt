@@ -382,6 +382,7 @@ git
 git1
 github
 glt
+gns3
 guest
 guest1
 guestuser
@@ -462,6 +463,7 @@ matt
 max
 media
 michael
+miguel
 mike
 min
 minecraft
