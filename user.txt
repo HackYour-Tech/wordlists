@@ -560,6 +560,7 @@ qweasdzxc123
 qwer1234
 r00t
 radio
+raspberry
 raspberrypi
 rebecca
 reboot
@@ -721,5 +722,6 @@ xml
 yang
 zabbix
 zero
+ziggo
 zxin10
 zyfwp
