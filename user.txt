@@ -36,6 +36,7 @@ $USER
 123456789
 123456Qq
 123456aA
+12345qwert
 1234Qwer
 12qwaszx
 1502
@@ -76,6 +77,7 @@ Cloud@123
 D
 Eproot
 FIELD
+Guest
 Huawei12#$
 Huawei@123
 Jirka
@@ -96,6 +98,7 @@ PlcmSpIp
 Pwd@CentOS
 Qq12345678
 RPM
+Root
 Root123!@#
 Root123123
 Root1234
@@ -103,6 +106,7 @@ Root@123
 Root@1234
 Root@2020
 Sujan
+Support
 Test
 Test@123
 USERID
@@ -443,6 +447,7 @@ lab
 laura
 lenny
 lenovo
+leo
 library
 lily
 linaro
