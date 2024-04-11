@@ -38,6 +38,8 @@ $USER
 123456aA
 12345qwert
 1234Qwer
+1234qwer
+123qweASD
 12qwaszx
 1502
 163.com
@@ -112,6 +114,7 @@ Test@123
 USERID
 Unknown
 User
+Username
 VNC
 a
 a123456
@@ -412,6 +415,7 @@ hkk
 home
 hscroot
 httpadmin
+httpd
 hunter
 idea
 info
@@ -546,6 +550,7 @@ plex
 plxx@#13915417585
 pos
 post
+postfix
 postgres
 postmaster
 press
@@ -578,6 +583,7 @@ remotessh
 report
 richard
 rob
+roberto
 ron
 root
 root2021
@@ -695,6 +701,7 @@ user2
 useradmin
 userftp
 username
+users
 uspro
 usr
 usuario
@@ -712,6 +719,7 @@ vyatta
 vyos
 wanda
 web
+webadm
 webadmin
 webftp
 weblogic
