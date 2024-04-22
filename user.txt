@@ -139,6 +139,7 @@ abcd@1234
 abe
 abella
 acap
+account
 ace-user
 acitoolkit
 adam
@@ -293,6 +294,7 @@ cgadmin
 changup7
 charming
 chef
+chiangmai2
 chong
 chris
 chrome
@@ -516,6 +518,7 @@ netgear
 new
 nginx
 nicole
+nikita
 nobody
 notjoin
 nproc
@@ -565,6 +568,7 @@ postgres
 postmaster
 press
 print
+print2000
 printer
 proftpd
 prueba
@@ -735,6 +739,7 @@ wanda
 web
 webadm
 webadmin
+webconfig
 webftp
 weblogic
 webmaster
