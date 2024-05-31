@@ -5070,6 +5070,7 @@ smartx
 smb
 smbuser
 smc
+smg
 smileserv
 smita
 smmsp
@@ -5356,6 +5357,7 @@ teamspeakserver
 teamviewer
 tech
 techadmin
+technical
 techsupport
 techuser
 tecmint
@@ -5476,6 +5478,7 @@ th
 thailandgo
 thehemingways
 theodore
+theresa
 thh
 thiago
 thiru
@@ -5550,6 +5553,7 @@ tpc
 tps
 tq
 tqc
+tracie
 tracy
 trade
 traffic
@@ -5975,6 +5979,7 @@ win
 windows
 windy
 winshelo
+winston
 wirac2304
 wireguard
 wisdom
